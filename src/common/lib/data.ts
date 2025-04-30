@@ -38,39 +38,39 @@ export const links = [
   },
 ] as const;
 
-export const experiencesData = [
-  {
-    title: 'Trustsoft s.r.o.',
-    location: 'Prague, Czechia',
-    description:
-      'Front-end Developer. Providing services in the field of information technology services, including administration servers, cloud services, information systems and software development.',
-    icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'Oct 2024 - Present',
-  },
-  {
-    title: 'Granton s.r.o.',
-    location: 'Prague, Czechia',
-    description:
-      'Front-end Developer. Delivering flawless UI/UX, Frontend Workflow, Architecture & App Development.',
-    icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'Oct 2024 - Present',
-  },
-  {
-    title: 'WhirrCrew s.r.o.',
-    location: 'Prague, Czechia',
-    description:
-      'Front-end Developer. Responsible for implemntation of accessible and interactive interface. Working on various projects with AI integration.',
-    icon: React.createElement(BriefcaseBusinessIcon),
-    date: 'Jun 2024 - Present',
-  },
-  {
-    title: 'NAU',
-    location: 'Kyiv, Ukraine',
-    description: `Bachelor's degree in Cybersecurity. The faculty of Cyber Security and Software Engineering.`,
-    icon: React.createElement(BookIcon),
-    date: 'Sep 2022 - Jun 2024',
-  },
-] as const;
+// export const experiencesData = [
+//   {
+//     title: 'Trustsoft s.r.o.',
+//     location: 'Prague, Czechia',
+//     description:
+//       'Front-end Developer. Providing services in the field of information technology services, including administration servers, cloud services, information systems and software development.',
+//     icon: React.createElement(BriefcaseBusinessIcon),
+//     date: 'Oct 2024 - Present',
+//   },
+//   {
+//     title: 'Granton s.r.o.',
+//     location: 'Prague, Czechia',
+//     description:
+//       'Front-end Developer. Delivering flawless UI/UX, Frontend Workflow, Architecture & App Development.',
+//     icon: React.createElement(BriefcaseBusinessIcon),
+//     date: 'Oct 2024 - Present',
+//   },
+//   {
+//     title: 'WhirrCrew s.r.o.',
+//     location: 'Prague, Czechia',
+//     description:
+//       'Front-end Developer. Responsible for implemntation of accessible and interactive interface. Working on various projects with AI integration.',
+//     icon: React.createElement(BriefcaseBusinessIcon),
+//     date: 'Jun 2024 - Present',
+//   },
+//   {
+//     title: 'NAU',
+//     location: 'Kyiv, Ukraine',
+//     description: `Bachelor's degree in Cybersecurity. The faculty of Cyber Security and Software Engineering.`,
+//     icon: React.createElement(BookIcon),
+//     date: 'Sep 2022 - Jun 2024',
+//   },
+// ] as const;
 
 export const images = {
   campwithusImg,
