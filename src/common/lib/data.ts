@@ -125,7 +125,7 @@ export const projectsData = [
       'Tailwind',
     ],
     imageUrl: portfolioImg,
-    link: 'https://github.com/bbyc4kes/portfolio',
+    link: 'https://portfolio-ts-rana.vercel.app/',
   },
 
   {
