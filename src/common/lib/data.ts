@@ -82,19 +82,19 @@ export const images = {
 
 export const projectsData = [
   {
-    title: 'Audit Master',
-    description: `Audit Master is a platform that streamlines the process of obtaining legal expertise and resources. It automates tasks like GAP Analysis, GAP Reporting, Due Diligence & more.`,
-    tags: ['React', 'TypeScript', 'Next.js', 'Tailwind', 'SCRUM Methodology'],
+    title: 'Pizza Time',
+    description: `Designed & developed an e-commerce food delivery app platform for a pizza restaurant, utilizing technologies like React icons, React Router DOM, React Alice Carousel, Leaflet Maps, React Paginate, UUID, React Lazy Load, Framer Motion & Turso.`,
+    tags: ['Reactjs', 'Leaflet Maps', 'Turso'],
     imageUrl: auditMasterImg,
-    link: 'https://auditmaster.ai/',
+    link: 'https://pizza-time-with-react-rana.vercel.app/',
   },
   {
-    title: 'Demo Automation of accounting documents processing',
+    title: 'Rana Cart',
     description:
-      'Upload any receipt or invoice (even a crumpled one from your pocket) and watch our AI accurately extract its data.',
-    tags: ['TypeScript', 'React', 'Docker', 'Next.js', 'GraphQL', 'Tailwind'],
+      'Designed & developed an interactive shopping E-commerce app platform having wide range of products & services using Typescript, React, React-Redux, Redux-Toolkit, Redux-Thunk, Axios, React Router, Framer Motion & Swiperjs.',
+    tags: ['TypeScript', 'React', 'Axios', 'Framer Motion'],
     imageUrl: accountingImg,
-    link: 'https://demo.grantonai.cz/',
+    link: 'https://rana-ecom-react.vercel.app/',
   },
   {
     title: 'FileDrive',
