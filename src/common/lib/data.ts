@@ -61,7 +61,7 @@ export const projectsData = [
   {
     title: 'Pizza Time',
     description: `Designed & developed an e-commerce food delivery app platform for a pizza restaurant, utilizing technologies like React icons, React Router DOM, React Alice Carousel, Leaflet Maps, React Paginate, UUID, React Lazy Load, Framer Motion & Turso.`,
-    tags: ['Reactjs', 'Leaflet Maps', 'Turso'],
+    tags: ['Reactjs', 'Leaflet Maps', 'React Alice Carousel', 'Framer Motion', 'Turso'],
     imageUrl: pizzatimeImg,
     link: 'https://pizza-time-with-react-rana.vercel.app/',
   },
@@ -79,7 +79,8 @@ export const projectsData = [
       `Developed an audio E-store website using Reactjs & state management done using Context API.It has various features such as custom hooks, local storage, fully responsive, dark theme, multi-pages & much more .`,
     tags: [
       'Reactjs',
-      'ReactRoutee',
+      'ReactRouter',
+      'React Swiper',
       'SASS',
     ],
     imageUrl: xbeatImg,
