@@ -97,20 +97,16 @@ export const projectsData = [
     link: 'https://rana-ecom-react.vercel.app/',
   },
   {
-    title: 'FileDrive',
+    title: 'Xbeat App',
     description:
-      'A platform for decentralized file storage with robust user management.',
+      `Developed an audio E-store website using Reactjs & state management done using Context API.It has various features such add & remove product from the cart, increment/decrement of the product quantity, product's total price/discount calculations, filters-sort by/filter by options, custom hooks, local storage, fully responsive, dark theme, multi-pages & much more .`,
     tags: [
-      'React',
-      'TypeScript',
-      'Next.js',
-      'Convex',
-      'Clerk',
-      'Shadcn',
-      'Tailwind',
+      'Reactjs',
+      'ReactRoutee',
+      'SASS',
     ],
     imageUrl: filedriveImg,
-    link: 'https://github.com/bbyc4kes/file-drive',
+    link: 'https://xbeat-rana.vercel.app/',
   },
   {
     title: 'Portfolio',
@@ -127,24 +123,7 @@ export const projectsData = [
     imageUrl: portfolioImg,
     link: 'https://portfolio-ts-rana.vercel.app/',
   },
-
-  {
-    title: 'Surge',
-    description:
-      'Service that allows users to build and manage their own websites with integrated payment processing.',
-    tags: [
-      'React',
-      'TypeScript',
-      'Next.js',
-      'MySQL',
-      'Clerk',
-      'Stripe Connect',
-      'Shadcn',
-      'Tailwind',
-    ],
-    imageUrl: surgeImg,
-    link: 'https://github.com/bbyc4kes/surge',
-  },
+  
 ] as const;
 
 export const skillsData = [
