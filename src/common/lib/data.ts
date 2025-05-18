@@ -8,7 +8,7 @@ import reactfoodImg from '@/../public/images/react-food.png';
 import surgeImg from '@/../public/images/surge.png';
 import portfolioImg from '@/../public/images/portfolio.png';
 import pizzatimeImg from '@/../public/images/pizzatime.png';
-import accountingImg from '@/../public/images/accounting.jpg';
+import ranacartImg from '@/../public/images/ranacart.png';
 import { BookIcon, BriefcaseBusinessIcon } from 'lucide-react';
 
 export const links = [
@@ -53,7 +53,7 @@ export const images = {
   pizzatimeImg,
   carcatalogImg,
   xbeatImg,
-  projectmanagementImg,
+  ranacartImg,
   reactfoodImg,
 };
 
@@ -70,7 +70,7 @@ export const projectsData = [
     description:
       'Designed & developed an interactive shopping E-commerce app platform having wide range of products & services using Typescript, React, React-Redux, Redux-Toolkit, Redux-Thunk, Axios, React Router, Framer Motion & Swiperjs.',
     tags: ['TypeScript', 'React', 'Axios', 'Framer Motion'],
-    imageUrl: accountingImg,
+    imageUrl: ranacartImg,
     link: 'https://rana-ecom-react.vercel.app/',
   },
   {
