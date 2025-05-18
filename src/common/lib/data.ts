@@ -2,7 +2,7 @@ import React from 'react';
 
 import campwithusImg from '@/../public/images/camp-with-us.png';
 import carcatalogImg from '@/../public/images/car-catalog.png';
-import filedriveImg from '@/../public/images/file-drive.png';
+import xbeatImg from '@/../public/images/xbeat.png';
 import projectmanagementImg from '@/../public/images/project-management.png';
 import reactfoodImg from '@/../public/images/react-food.png';
 import surgeImg from '@/../public/images/surge.png';
@@ -52,7 +52,7 @@ export const experiencesData = [
 export const images = {
   campwithusImg,
   carcatalogImg,
-  filedriveImg,
+  xbeatImg,
   projectmanagementImg,
   reactfoodImg,
 };
@@ -82,7 +82,7 @@ export const projectsData = [
       'ReactRoutee',
       'SASS',
     ],
-    imageUrl: filedriveImg,
+    imageUrl: xbeatImg,
     link: 'https://xbeat-rana.vercel.app/',
   },
   {
