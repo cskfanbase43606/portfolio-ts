@@ -5,6 +5,7 @@ import Contact from "@/common/components/sections/contact";
 import Hero from "@/common/components/sections/hero";
 import Projects from "@/common/components/sections/projects";
 import Skills from "@/common/components/sections/skills";
+import Experience from "@/common/components/sections/experience";
 
 export default function Home() {
   return (
