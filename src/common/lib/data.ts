@@ -7,7 +7,7 @@ import projectmanagementImg from '@/../public/images/project-management.png';
 import reactfoodImg from '@/../public/images/react-food.png';
 import surgeImg from '@/../public/images/surge.png';
 import portfolioImg from '@/../public/images/portfolio.png';
-import auditMasterImg from '@/../public/images/audit-master.png';
+import pizzatimeImg from '@/../public/images/pizzatime.png';
 import accountingImg from '@/../public/images/accounting.jpg';
 import { BookIcon, BriefcaseBusinessIcon } from 'lucide-react';
 
@@ -43,14 +43,14 @@ export const experiencesData = [
     title: 'Frontend Developer Intern',
     location: 'Besant Technologies, Bengaluru',
     description:
-      'Front-end Developer. Providing services in the field of information technology services, including administration servers, cloud services, information systems and software development.',
+      'Front-end Developer. Completed Frontend Development Internship From Besant Technologies.',
     icon: React.createElement(BriefcaseBusinessIcon),
     date: 'Sept 2024 - October 2024',
   },
 ] as const;
 
 export const images = {
-  campwithusImg,
+  pizzatimeImg,
   carcatalogImg,
   xbeatImg,
   projectmanagementImg,
@@ -62,7 +62,7 @@ export const projectsData = [
     title: 'Pizza Time',
     description: `Designed & developed an e-commerce food delivery app platform for a pizza restaurant, utilizing technologies like React icons, React Router DOM, React Alice Carousel, Leaflet Maps, React Paginate, UUID, React Lazy Load, Framer Motion & Turso.`,
     tags: ['Reactjs', 'Leaflet Maps', 'Turso'],
-    imageUrl: auditMasterImg,
+    imageUrl: pizzatimeImg,
     link: 'https://pizza-time-with-react-rana.vercel.app/',
   },
   {
