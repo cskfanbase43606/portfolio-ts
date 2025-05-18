@@ -76,7 +76,7 @@ export const projectsData = [
   {
     title: 'Xbeat App',
     description:
-      `Developed an audio E-store website using Reactjs & state management done using Context API.It has various features such add & remove product from the cart, increment/decrement of the product quantity, product's total price/discount calculations, filters-sort by/filter by options, custom hooks, local storage, fully responsive, dark theme, multi-pages & much more .`,
+      `Developed an audio E-store website using Reactjs & state management done using Context API.It has various features such as custom hooks, local storage, fully responsive, dark theme, multi-pages & much more .`,
     tags: [
       'Reactjs',
       'ReactRoutee',
