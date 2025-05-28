@@ -64,11 +64,6 @@ This project includes several components and utilities that you can use and modi
 - `public/`: Contains public assets such as images and videos.
 - `lib/`: Contains utility/data.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests. Any contributions, whether it be improvements, bug fixes, or new features, are greatly appreciated!
-Please make sure to read and follow our [Code of Conduct](CODE_OF_CONDUCT.md) and the [Contribution Guidelines](CONTRIBUTE.md) before contributing.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
