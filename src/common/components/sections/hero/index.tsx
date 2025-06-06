@@ -72,7 +72,7 @@ export default function Hero() {
 
               <a
                 className="borderBlack group flex w-64 cursor-pointer items-center justify-center gap-2 rounded-full bg-white px-7 py-3 text-black outline-none transition hover:bg-gray-100 dark:bg-white/10 dark:text-white dark:hover:bg-white/20 sm:w-auto"
-                href="https://drive.google.com/file/d/1DQru21O_5REy4eIe2gQ90tH_rzwTxg23/view?usp=sharing"
+                href="https://drive.google.com/drive/my-drive?q=after:2025-06-06%20parent:0AP5o1fQmxRsKUk9PVA"
                 download
               >
                 <span>Download CV</span>
